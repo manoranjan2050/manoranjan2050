@@ -129,7 +129,7 @@ Linux Administration    ██████████████        70%
 <a href="https://github.com/manoranjan2050">
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
 </a>
-<a href="https://manofno.com">
+<a href="http://manoranjan.dev">
 <img src="https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 <a href="mailto:electroiot.in@gmail.com">
