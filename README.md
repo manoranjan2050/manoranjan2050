@@ -71,13 +71,9 @@
 
 ---
 
-## 🏆 GitHub Statistics
+## GitHub Statistics
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=manoranjan2050&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoranjan2050&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
+**Total lifetime contributions shown below (all-time commits, PRs, issues, and reviews combined).**
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=manoranjan2050&theme=tokyonight&hide_border=true" />
 </p>
@@ -111,13 +107,13 @@ Linux Administration    ██████████████        70%
 
 ---
 
-## 🔥 Featured Repositories
+## Featured Repositories
 
-[![HADial](https://github-readme-stats.vercel.app/api/pin/?username=manoranjan2050&repo=HADial&theme=tokyonight&hide_border=true)](https://github.com/manoranjan2050/HADial)
-
-⭐ **[HADial](https://github.com/manoranjan2050/HADial)** — animated Home Assistant controller for the M5Stack Dial (ESP32-S3)
-⭐ OpenAlgo Dashboard &nbsp;·&nbsp; ⭐ Trading Portfolio &nbsp;·&nbsp; ⭐ SecureVault &nbsp;·&nbsp; ⭐ Python Utilities
-
+- **[Elite-IoT-Portfolio](https://github.com/manoranjan2050/Elite-IoT-Portfolio)** - the engine behind [manoranjan.dev](https://manoranjan.dev): live energy telemetry dashboard, public IoT control center with pattern-lock security, blog, gallery, and a full admin CMS. PHP.
+- **[HADial](https://github.com/manoranjan2050/HADial)** - animated Home Assistant controller for the M5Stack Dial (ESP32-S3)
+- **[SecureVault](https://github.com/manoranjan2050/SecureVault)** - password manager and document storage with local encryption
+- **[mtp-deploy](https://github.com/manoranjan2050/mtp-deploy)** - self-hosted deployment and server management platform for Laravel, PHP, HTML, and WordPress apps
+- **[mtpcode](https://github.com/manoranjan2050/mtpcode)** - mtpcode.com, the showcase site for all MTP Code apps
 ---
 
 ## 🌍 Connect With Me
