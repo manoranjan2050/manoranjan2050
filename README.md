@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=200&section=header&text=Manoranjan%20Das&fontSize=58&fontColor=ffffff&animation=fadeIn&desc=Python%20%C2%B7%20Algo%20Trading%20%C2%B7%20IoT%20%26%20Smart%20Home&descSize=18&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=200&section=header&text=Manoranjan%20Das&fontSize=58&fontColor=ffffff&animation=fadeIn&desc=Python%20%C2%B7%20Algo%20Trading%20%C2%B7%20IoT%20%26amp%3B%20Smart%20Home&descSize=18&descAlignY=58" width="100%"/>
 
 ### 🚀 Python Developer · Algo Trading Developer · IoT Enthusiast · Web Dashboard Creator
 
