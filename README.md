@@ -84,20 +84,17 @@
 
 ---
 
-## 📊 Activity Graph
+## Contribution Snake
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manoranjan2050&theme=tokyo-night&hide_border=true" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manoranjan2050/manoranjan2050/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manoranjan2050/manoranjan2050/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/manoranjan2050/manoranjan2050/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 </p>
 
----
-
-## 🏅 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=manoranjan2050&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
-</p>
-
+<sub>Regenerated daily by a GitHub Action in this repo, no third-party hosting dependency.</sub>
 ---
 
 ## 💻 Development Focus
